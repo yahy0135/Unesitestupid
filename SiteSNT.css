@@ -1,0 +1,20 @@
+b {
+	color : red;
+	font-size : 20;
+	font-style : bold;
+}
+.important {
+	background-color : white;
+}
+v {
+	color : blue;
+	backgroun-color : 00f0000;
+}
+img {
+	float:right;
+	height: 110px;
+    width: 180px;
+}
+d {
+	float:left;
+}
